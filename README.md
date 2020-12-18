@@ -6,7 +6,7 @@
 
 I am [Shuvojit](http://www.shuvojit.com/), a passionate and creative developer from [BD ](https://en.wikipedia.org/wiki/Bangladesh)&nbsp;with a strong interest in Open-Source. 🎯
 
-I mostly work with Mobile and Bacnkend  technologies.☁️🚀
+I mostly work with Mobile and Backnend  technologies.☁️🚀
 
 
 <p float="left">
