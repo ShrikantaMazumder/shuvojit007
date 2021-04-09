@@ -14,7 +14,7 @@ I mostly work with Mobile and Backnend  technologies.☁️🚀
     <img src="https://i.ibb.co/BKLXQ2S/android.gif"  height="90" />
   </a>
   <a href="https://flutter.dev/" target="_blank" >
-    <img src="https://i.ibb.co/BKLXQ2S/android.gifhttps://i.ibb.co/1RL0x6b/flutter.jpg"  height="90" />
+    <img src="https://i.ibb.co/1RL0x6b/flutter.jpg"  height="90" />
   </a>
   <a href="https://www.docker.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/docker.gif"  height="80" /> 
